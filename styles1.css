@@ -1,0 +1,31 @@
+body{
+    background-image: url('business.jpg')
+}
+.heading{
+    color: lightyellow;
+}
+.form-label, .headin2{
+    color:lightcyan;
+}
+.form-text{
+    color: lightsteelblue;
+    margin: 10px 160px;
+}
+.list-group-item{
+    background-color:black;
+    border-color:dimgray;
+    color: brown;
+}
+.form-control{
+border-radius: 10px;
+border-color: rgb(243, 22, 6);
+background-color: darkslategrey;
+}
+.btn{
+    background-color: darkseagreen;
+    border-radius: 20px;
+}
+#ulTasks li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+  }
